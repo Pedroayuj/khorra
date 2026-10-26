@@ -1,0 +1,6 @@
+{
+  "name": "meu-app-api",
+  "main": "src/index.js", // certifique-se de colocar o nome do seu arquivo principal aqui (ex: server.js ou index.js)
+  "compatibility_date": "2026-10-25",
+  "compatibility_flags": [ "nodejs_compat" ]
+}
